@@ -87,7 +87,7 @@ def main():
         else:
             print("In valid syntax")
 
-if __name__ ==  "__main__" : #checkingGithub
+if __name__ ==  "__main__" : 
     main()
 
 
